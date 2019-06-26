@@ -13,7 +13,6 @@
     "babel-polyfill": "^6.26.0",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.1.2",
-    "buttercms": "^1.1.1",
     "draft-js": "^0.10.5",
     "draft-js-export-html": "^1.2.0",
     "draft-js-inline-toolbar-plugin": "^2.0.3",
